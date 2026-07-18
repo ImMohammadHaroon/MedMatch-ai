@@ -4,7 +4,6 @@ __pycache__/
 *.egg-info/
 .venv/
 venv/
-.env
 
 # Node
 node_modules/
@@ -14,4 +13,7 @@ dist/
 .DS_Store
 Thumbs.db
 .idea/
-.vscode/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
